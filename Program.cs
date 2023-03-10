@@ -1,8 +1,8 @@
 ﻿///// Mohammad Heydari /////////
-////// Shamsipour Technical and Vocational College (2023) //////////////
+//////* Shamsipour Technical and Vocational College (2023) *//////////////
 
 
-Console.WriteLine("A ? (y or n)");/////The questions and answers are symbolic and the questions and answers may be different in each context./////////////
+Console.WriteLine("A ? (y or n)");/////*The questions and answers are symbolic and the questions and answers may be different in each context.*/////////////
 string input;
 LockKeyboardYN();
 
